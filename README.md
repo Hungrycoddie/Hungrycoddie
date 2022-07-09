@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hungrycoddie
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on Data science 
+- 🌱 I’m currently learning c++, python, jupyter notebooks, etc 
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me @hungrycodie on tweet
 
 <!---
