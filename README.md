@@ -1,15 +1,10 @@
 <h1 align="center">Hi !! <br>👋<br>I'm Arun Raj</h1>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 - 👋 AKA -Hungrycoddie
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
 - 💞️ I’m looking to collaborate on AI and Cloud Computing
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
-
-
-
 <p 
    align="center"> 
   <a href="https://www.instagram.com/arun05raj/">
@@ -22,10 +17,6 @@
   <img src="https://img.shields.io/badge/ArunRaj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,7 +33,6 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
-
 <table>
    <tr>
     <td>
