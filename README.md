@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 
-<script src="https://gist.github.com/kenmori/17e1122d5394251533933673a08f6a78.js"></script>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arunrajrider.svg?style=social&label=Follow%20%40arunrajrider)](https://twitter.com/arunrajrider)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
