@@ -13,8 +13,8 @@
     <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-<a href="https://linkedin.com/in/-krishnavishwakarma">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/arun-raj-19a48b93/">
+  <img src="https://img.shields.io/badge/ArunRaj-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arunrajrider.svg?style=social&label=Follow%20%40arunrajrider)](https://twitter.com/arunrajrider)
