@@ -2,8 +2,9 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me @hungrycodie on tweet
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 
 
 <h3 align="left">Languages and Tools:</h3>
