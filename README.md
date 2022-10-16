@@ -19,6 +19,10 @@
   <a href="https://twitter.com/arunrajrider">
   <img src="https://img.shields.io/badge/ArunRaj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+</a>
+  <a href="https://bit.ly/3C9CkCG">
+  <img src="https://img.shields.io/badge/ArunRaj-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
 </p>
 <br>
 <br>
