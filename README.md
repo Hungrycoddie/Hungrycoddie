@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)]([https://twitter.com/bukotsunikki](https://twitter.com/arunrajrider))
 
 
 <h3 align="left">Languages and Tools:</h3>
