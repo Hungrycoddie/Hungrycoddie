@@ -40,7 +40,7 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={username}}" />
+<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={Hungrycoddie}}" />
 
 
 
