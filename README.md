@@ -8,23 +8,17 @@
 - 💞️ I’m looking to collaborate on AI and Cloud Computing
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 
-<p align="center"> 
+<p 
+   align="center"> 
   <a href="https://www.instagram.com/arun05raj/">
     <img alt="Instagram" src="https://img.shields.io/badge/ArunRaj-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-    
 <a href="https://www.linkedin.com/in/arun-raj-19a48b93/">
   <img src="https://img.shields.io/badge/ArunRaj-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-  
   <a href="https://twitter.com/arunrajrider">
   <img src="https://img.shields.io/badge/ArunRaj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-  
- 
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arunrajrider.svg?style=social&label=Follow%20%40arunrajrider)](https://twitter.com/arunrajrider)
-
 </p>
 
 
