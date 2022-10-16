@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Hungrycoddie
-- 👀 I’m interested in machine learning 
+<h1 align="center">Hi 👋, I'm Arun Raj</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- 👋 AKA -Hungrycoddie
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
-- 💞️ I’m looking to collaborate on nothing 
+- 💞️ I’m looking to collaborate on AI and Cloud Computing
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arunrajrider.svg?style=social&label=Follow%20%40arunrajrider)](https://twitter.com/arunrajrider)
