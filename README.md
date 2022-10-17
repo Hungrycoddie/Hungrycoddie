@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
 - 💞️ I’m looking to collaborate on AI and Cloud Computing
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
-<br>
-<br>
+
 <p 
    align="center"> 
   <a href="https://www.instagram.com/arun05raj/">
