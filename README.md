@@ -30,42 +30,37 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"; display="flex"> 
+<p align="center"> 
    
   <a href="https://www.w3schools.com/html/">
      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    </a>
    
-   <a href="">
+   <a href="https://www.w3schools.com/css/default.asp">
       <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
    </a>
    
-   <a href="">
+   <a href="https://sass-lang.com/documentation/">
       <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
    </a>
    
-   <a href="">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    </a>
    
-   <a href="">
+   <a href="https://skills.github.com/">
       <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
    </a>
    
-   <a href="">
+   <a href="https://docs.python.org/3/">
       <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    </a>
    
    <a href="">
    </a>
-   
-   <a href="">
-   </a>
 </p>
-
 <br>
 <br>
-
 <table>
    <tr>
     <td>
