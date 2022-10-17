@@ -8,6 +8,7 @@
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p 
    align="center"> 
   <a href="https://www.instagram.com/arun05raj/">
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/ArunRaj-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
