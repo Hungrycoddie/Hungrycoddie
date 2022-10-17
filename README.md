@@ -30,7 +30,8 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center" position="relative"> 
+   
   <a href="https://www.w3schools.com/html/">
      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    </a>
