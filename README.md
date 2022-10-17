@@ -1,5 +1,5 @@
 <h1 align="center">Hi !! <br>👋<br>I'm Arun Raj</h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 👋 AKA -Hungrycoddie
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
@@ -7,7 +7,6 @@
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p 
    align="center"> 
   <a href="https://www.instagram.com/arun05raj/">
