@@ -1,8 +1,5 @@
 <h1 align="center">Hi ! 👋 I'm Arun Raj
 </h1>
-<p align='center'>
-    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
-</p>
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
