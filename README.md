@@ -83,6 +83,13 @@
     </td>
       </tr>
    </table>
+   
+## 📈 Github Activity Graph
+
+<p align="center">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Hungrycoddie&theme=synthwave-84" />
+  <img src="https://github.com/Hungrycoddie/Hungrycoddie/blob/output/github-contribution-grid-snake.svg" /> 
+</p>
 
 <!---
 Hungrycoddie/Hungrycoddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
