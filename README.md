@@ -1,9 +1,6 @@
-<h1 align="center">Hi ! 👋 I'm Arun Raj
+<h1 align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Hi+My+Name+Is+Arun+Raj;A+Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </h1>
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
