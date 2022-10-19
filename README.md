@@ -92,7 +92,7 @@
    
    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Hungrycoddie&theme=synthwave-84" />
 </p>
-<h4 align="left">Programming Jokes Take a break and smile:</h4>
+<h4 align="left">Programming Jokes Take a break and smile: Refresh the page for new one</h4>
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
