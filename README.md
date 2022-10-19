@@ -1,7 +1,7 @@
 <p align='center'>
     <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
 </p>
-<h1 align="center">Hi !! <br>👋<br>I'm Arun Raj
+<h1 align="center">Hi ! 👋 I'm Arun Raj
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
