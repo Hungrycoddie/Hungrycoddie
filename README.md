@@ -88,7 +88,6 @@
 
 <p align="center">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Hungrycoddie&theme=synthwave-84" />
-  <img src="https://github.com/hungrycoddie/hungrycoddie/blob/output/github-contribution-grid-snake.svg" /> 
 </p>
 
 <!---
