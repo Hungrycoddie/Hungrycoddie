@@ -1,4 +1,9 @@
+
 <p align='center'>
+    <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SaiSridhar783/count.svg" />
+</p>
     <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
 </p>
 <h1 align='center'>
