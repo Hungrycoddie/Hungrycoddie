@@ -56,7 +56,12 @@
       <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    </a>
    
-   <a href="">
+   <a href="https://reactjs.org/">
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
+
+   <a href="#">
+      <img alt="#" src="#">
    </a>
 </p>
 <br>
