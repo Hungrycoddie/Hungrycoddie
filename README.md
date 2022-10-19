@@ -88,7 +88,9 @@
    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Hungrycoddie&theme=synthwave-84" />
 </p>
    
-
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
 <!---
 Hungrycoddie/Hungrycoddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
