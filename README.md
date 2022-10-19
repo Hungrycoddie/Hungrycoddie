@@ -82,7 +82,7 @@
     </td>
     <td>
     <a href="https://github.com/Hungrycoddie">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungrycoddie&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /> </a>
+       <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Hungrycoddie}&theme=vue" /> </a>
     </td>
       </tr>
    </table>
