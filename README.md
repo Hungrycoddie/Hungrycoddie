@@ -61,6 +61,9 @@
    <a href="https://reactjs.org/docs/getting-started.html">
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
+   <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
+   <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   </a>
 </p>
 <h3 align="left">Tools </h3>
 <p align="center"> 
@@ -82,6 +85,16 @@
 <a href="https://www.postgresql.org/docs/current/">
    <img alt="PostgressSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
    </a>
+</p>
+<h3 align="left">Design</h3>
+<p align="center">
+<a href="https://developer.adobe.com/xd/uxp/">
+   <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+   </a>
+</p>
+
+
+
 <br>
 <br>
 <table>
@@ -102,6 +115,11 @@
 <div align="center">
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Jokes Card" />
+</div>
+
 <!---
    Hungrycoddie/Hungrycoddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    You can click the Preview link to take a look at your changes.
