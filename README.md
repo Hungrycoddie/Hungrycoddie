@@ -69,13 +69,11 @@
    <a href="https://reactjs.org/">
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
-   
-   ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white)
 
-
-   <a href="#">
-      <img alt="#" src="#">
+   <a href="https://www.meteor.com/">
+      <img alt="Meteor" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white">
    </a>
+    
 </p>
 <br>
 <br>
