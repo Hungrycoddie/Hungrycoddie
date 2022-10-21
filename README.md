@@ -9,11 +9,13 @@
    <img src="https://profile-counter.glitch.me/Hungrycoddie/count.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 👋 AKA -Hungrycoddie
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning 🏎Express,🧩NodeJs,🐀Mongoose,🍃MongoDB. 
 - 💞️ I’m looking to collaborate on AI and Cloud Computing
 - 📫 Mail me at [hungrycodie@gmail.com](mailto:hungrycodie@gmail.com)
+
 <p 
    align="center"> 
    <a href="https://www.instagram.com/arun05raj/">
@@ -65,6 +67,14 @@
    <a href="https://skills.github.com/">
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
    </a>
+   <a href="https://code.visualstudio.com/docs">
+   <img alt="VsCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   </a>
+   <a href="https://cloud.ibm.com/docs">
+   <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white"/>
+   </a>
+
+   
 </p>
 <br>
 <br>
