@@ -58,25 +58,30 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    </a>
    
-   <a href="https://skills.github.com/">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-   </a>
-   
    <a href="https://docs.python.org/3/">
       <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    </a>
    
-   <a href="https://reactjs.org/">
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   </a>
+   
  
 </p>
 
-<h3 align="left">FrameWorks</h3>
-<p>
+<h4 align="left"> FrameWork </h4>
+<p align="center">
     <a href="https://www.meteor.com/">
         <img alt="Meteor" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white">
     </a>
+    
+    <a href="https://reactjs.org/">
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
+</p>
+
+<h5 align="left"> Tools </h5>
+<p align="center">
+    <a href="https://skills.github.com/">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
 </p>
 
 <br>
