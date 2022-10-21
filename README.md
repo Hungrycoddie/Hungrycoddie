@@ -35,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages </h3>
 <p align="center"> 
    <a href="https://www.w3schools.com/html/">
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -53,7 +53,7 @@
    <img alt="Python" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
    </a>
 </p>
-<h3 align="left">FrameWork :</h3>
+<h3 align="left">FrameWork </h3>
 <p align="center"> 
    <a href="https://guide.meteor.com/">
    <img alt="Meteor" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white">
@@ -62,7 +62,7 @@
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
 </p>
-<h3 align="left">Tools :</h3>
+<h3 align="left">Tools </h3>
 <p align="center"> 
    <a href="https://skills.github.com/">
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -77,6 +77,11 @@
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
    </a>
 </p>
+<h3 align="left">DataBase </h3>
+<p align="center">
+<a href="https://www.postgresql.org/docs/current/">
+   <img alt="PostgressSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   </a>
 <br>
 <br>
 <table>
