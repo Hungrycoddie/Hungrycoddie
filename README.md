@@ -71,7 +71,6 @@
     <a href="https://www.meteor.com/">
         <img alt="Meteor" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white">
     </a>
-    
     <a href="https://reactjs.org/">
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
@@ -79,7 +78,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="center"> 
-    
     <a href="https://skills.github.com/">
       <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
    </a>
