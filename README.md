@@ -91,10 +91,11 @@
 <a href="https://developer.adobe.com/xd/uxp/">
    <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
    </a>
+
+   <a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/">
+   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+   </a>   
 </p>
-
-
-
 <br>
 <br>
 <table>
