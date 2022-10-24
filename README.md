@@ -4,9 +4,9 @@
 <p align='center'>
    <img alt='GIF' src='https://user-images.githubusercontent.com/106869558/197535257-099d92b7-bf34-45b5-91a0-690c40bbb7bb.gif'/>
    </p>
-<h1 align='center'>
-   <ins><img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Hi+My+Name+Is+Arun+Raj;A+Full+Stack+Developer;Enthusiastic+Programmer;Code+For+Everyone'/></ins>
-</h1>
+<ins><h1 align='center'>
+   <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Hi+My+Name+Is+Arun+Raj;A+Full+Stack+Developer;Enthusiastic+Programmer;Code+For+Everyone'/>
+</h1></ins>
 <p align="center"> 
    <b><ins>Visit Count</ins></b>
    <br>
