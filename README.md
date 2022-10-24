@@ -118,8 +118,11 @@
 </div>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Jokes Card" />
+   <img src="https://user-images.githubusercontent.com/106869558/197533748-01e8ed81-73cd-41df-825e-5d0a342e7ea8.gif" />
 </div>
+![ezgif com-gif-maker (1)]()
+
+https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Jokes Card
 
 <!---
    Hungrycoddie/Hungrycoddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
