@@ -8,7 +8,7 @@
    <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Hi+My+Name+Is+Arun+Raj;A+Full+Stack+Developer;Enthusiastic+Programmer;Code+For+Everyone'/>
 </h1>
 <p align="center"> 
-   <mark><b>Visit count</b></mark><br>
+   <b><mark>Visit Count</mark></b><br>
    <img src="https://profile-counter.glitch.me/Hungrycoddie/count.svg" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
