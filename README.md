@@ -1,6 +1,9 @@
-<p align='center'>
+<!-- <p align='center'>
    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
-</p>
+</p> -->
+<p align='center'>
+   <img alt='GIF' src='https://user-images.githubusercontent.com/106869558/197535257-099d92b7-bf34-45b5-91a0-690c40bbb7bb.gif'/>
+   </p>
 <h1 align='center'>
    <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Hi+My+Name+Is+Arun+Raj;A+Full+Stack+Developer;Enthusiastic+Programmer;Code+For+Everyone'/>
 </h1>
@@ -118,11 +121,8 @@
 </div>
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/106869558/197533748-01e8ed81-73cd-41df-825e-5d0a342e7ea8.gif" />
+   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Jokes Card" />
 </div>
-![ezgif com-gif-maker (1)]()
-
-https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Jokes Card
 
 <!---
    Hungrycoddie/Hungrycoddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
