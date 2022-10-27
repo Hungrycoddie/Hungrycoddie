@@ -69,6 +69,10 @@
    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
    <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </a>
+   
+   <a href="https://nodejs.org/en/docs/">
+   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+   </a>
 </p>
 <h3 align="left">Tools </h3>
 <p align="center"> 
@@ -90,6 +94,10 @@
 <a href="https://www.postgresql.org/docs/current/">
    <img alt="PostgressSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
    </a>
+   <a href="https://www.mongodb.com/docs/">
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   </a>
+   
 </p>
 <h3 align="left">Design</h3>
 <p align="center">
