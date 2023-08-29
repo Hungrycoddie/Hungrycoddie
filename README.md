@@ -1,6 +1,6 @@
-<!-- <p align='center'>
+<p align='center'>
    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
-</p> -->
+</p> 
 <p align='center'>
    <img alt='GIF' src='https://user-images.githubusercontent.com/106869558/197535257-099d92b7-bf34-45b5-91a0-690c40bbb7bb.gif'/>
    </p>
